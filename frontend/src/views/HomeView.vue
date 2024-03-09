@@ -1,6 +1,6 @@
 <template>
   <main>
-    home view
+    {{ $t('test') }}
   </main>
 </template>
 
